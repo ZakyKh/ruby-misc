@@ -1,2 +1,8 @@
+# ignore everything
 *
+
+# except ones with extension
 !*.*
+
+# input file if cmd for stdin is a hassle
+test.txt
